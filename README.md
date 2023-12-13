@@ -24,6 +24,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto desenvolvido para criar uma landing page mostrando novos produtos da byecar
 
+Para acessar o projeto [CLIQUE AQUI](https://majestic-kashata-62a627.netlify.app/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rnN5ht6129drtNUS6Q02CO/%5BPPM%5D-Prot%C3%B3tipo-Landing-Page?type=design&node-id=0-1&mode=design&t=wk8LsK2aim5eds2p-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
